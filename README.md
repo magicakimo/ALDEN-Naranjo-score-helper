@@ -1,5 +1,8 @@
 # ALDEN-Naranjo-score-helper
-*此程式在處理問卷分數時仍可能有誤判的情形（程式設計時的邏輯設想**可能**不周全），故作出之結果僅做為參考使用*
+  * *此程式在處理問卷分數時仍可能有誤判的情形（程式設計時的邏輯設想**可能**不周全），故作出之結果僅做為參考使用*
+  * *It's a simple project of adverse drug events, which can simplify the progress of accessing SJS/TEN cases by using Naranjo score and ALDEN score.*
+  * *THIS PROGRAM IS **NOT APPLICABLE** in clinical due to simplication in my coding.* 
+  * *This program contains 3 part: input drug information (drug name, dosage, duration) and further question (e.g. medication history), compute Naranjo score and ALDEN score, save excel file including questionnaire score and drug list.*
 
 ## 程式發想
   1. 在評估SJS/TEN時，因為服用期間的所有藥物都要進行ALDEN score及Naranjo score的分數判斷，想要藉由已知的病患病史資料，來簡化藥物評估之流程，並減少可能發生的錯誤
